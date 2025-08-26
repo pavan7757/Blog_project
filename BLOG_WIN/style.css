@@ -1,0 +1,49 @@
+#navbar{
+
+}
+ #main-content{
+    padding: 20px;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    border-radius: 5px;
+    align-self: center;
+    text-align: center;
+    background-image: url('https://thumbs.dreamstime.com/b/politics-word-gr-stencil-print-grunge-white-brick-wall-85060136.jpg');
+    background-size: cover;
+    color: white;
+}
+#mindful-living {
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    background-color: black;
+}
+#blog1 {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+}
+#blog2{
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+}
+#blog1-title{
+    color:red;
+    text-align: left;
+    margin-top: 20px;
+    background-color: black;
+}
