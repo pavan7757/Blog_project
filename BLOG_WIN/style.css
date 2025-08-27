@@ -46,4 +46,10 @@
     text-align: left;
     margin-top: 20px;
     background-color: black;
+
+}
+#mainbody{
+
+    background-image: url("https://i.pinimg.com/736x/8c/f0/f2/8cf0f2b7a46ea55ec76f15ec443666e2.jpg");
+    background-size: cover;
 }
