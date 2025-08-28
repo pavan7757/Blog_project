@@ -1,27 +1,28 @@
-#navbar{
 
-}
  #main-content{
-    padding: 20px;
+    padding: 80px;
     font-weight: bold;
     border: 1px solid #ddd;
     border-radius: 50px;
-    border-radius: 5px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.9 );
     align-self: center;
     text-align: center;
-    background-image: url('https://thumbs.dreamstime.com/b/politics-word-gr-stencil-print-grunge-white-brick-wall-85060136.jpg');
+    background-image: url('https://i.pinimg.com/1200x/b0/d9/dd/b0d9dd0eeb95a90b873f8d5fe2887155.jpg');
     background-size: cover;
     color: white;
+    margin-top: 40px;
 }
 #mindful-living {
-    margin-top: 40px;
+    display: inline ;
+    margin-top: 70px;
     font-size: 30px;
     font-weight: bold;
     color: red;
     text-align: center;
-    background-color: black;
+   
 }
 #blog1 {
+    
     margin-top: 20px;
     font-size: 18px;
     line-height: 1.6;
@@ -30,6 +31,8 @@
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 5px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.9 );
+    background-image: url("https://i.pinimg.com/1200x/b0/d9/dd/b0d9dd0eeb95a90b873f8d5fe2887155.jpg");
 }
 #blog2{
     margin-top: 20px;
@@ -40,16 +43,60 @@
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 5px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.9 );
+    background-image: url("https://i.pinimg.com/736x/f2/18/0c/f2180c190b312fa0b24995ca3f6772ec.jpg");
 }
 #blog1-title{
-    color:red;
-    text-align: left;
-    margin-top: 20px;
-    background-color: black;
-
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 30px;
+    font-weight: bold;
+    
+    
 }
 #mainbody{
 
-    background-image: url("https://i.pinimg.com/736x/8c/f0/f2/8cf0f2b7a46ea55ec76f15ec443666e2.jpg");
+    background-color: azure;
     background-size: cover;
 }
+#footer{
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding: 10px 0;
+    background-image: url('https://i.pinimg.com/1200x/b0/d9/dd/b0d9dd0eeb95a90b873f8d5fe2887155.jpg');
+    background-size: cover;
+}
+
+
+.navbar {
+            background-color: #333;
+            overflow: hidden;
+            border-bottom: 2px solid #555;
+            border-radius: 50px;
+        }
+
+        .navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: space-evenly; 
+        }
+
+        .navbar li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .navbar li a:hover {
+            background-color: #575757;
+        }
+
+
+
