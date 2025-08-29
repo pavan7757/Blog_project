@@ -97,6 +97,32 @@
         .navbar li a:hover {
             background-color: #575757;
         }
-
-
-
+        #contact {
+            color: red;
+            text-align: center;
+            font-size: 35px;
+            margin-top: 40px;
+            font-weight: bold;
+            background-color: black;
+        }
+        #name {
+            color: white;
+            text-align: left;
+            font-size: 18px;
+            margin-top: 10px;
+            font-weight: normal;
+        }
+        #email {
+            color: white;
+            text-align: left;
+            font-size: 18px;
+            margin-top: 10px;
+            font-weight: normal;
+        }
+        #message {
+            color: white;
+            text-align: left;
+            font-size: 18px;
+            margin-top: 10px;
+            font-weight: normal;
+        }
