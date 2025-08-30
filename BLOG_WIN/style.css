@@ -126,3 +126,20 @@
             margin-top: 10px;
             font-weight: normal;
         }
+        #contact-info{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+            box-sizing: border-box;
+            padding: 20px;
+        }
+        #contact-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+            box-sizing: border-box;
+            padding: 20px;
+            background-color: aqua;
+        }
