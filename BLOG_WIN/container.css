@@ -1,0 +1,38 @@
+#container {
+   
+   border: 10px solid black;
+   
+   
+ }
+
+#box1 {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    margin-left: 800px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+ #box2{
+    border: 1px solid black;
+    margin-left: 800px; 
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    justify-content: center;
+ }
+
+ #box3{
+   border: 1px solid black;
+   margin-left: 800px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    justify-content: center;
+}
+
+
+ 
