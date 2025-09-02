@@ -1,0 +1,30 @@
+#position1{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    position: static;
+    
+}
+
+#position2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+  
+   align-items: center;
+}
+#position3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(43, 226, 73);
+    position: absolute;
+   
+}
+#position4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(226, 43, 67);
+    position: fixed;
+    
+}
